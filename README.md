@@ -250,7 +250,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Mtechbro94**
-- GitHub: [@mtechbro94](https://github.com/mtechbro94)
+- GitHub: [https://github.com/nidhigautam0824-star]
 - Repository: [SMS-Spam-Detection-using-SVM](https://github.com/mtechbro94/SMS-Spam-Detection-using-SVM)
 
 ## 🙏 Acknowledgments
